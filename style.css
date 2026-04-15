@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+.bg-img{
+    width: 1605px;
+    height: 850px;
+    padding: 30px 150px;
+    background-image: url("./background\ \(1\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.srelka{
+    color: orangered;
+}
+.kalima1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+.flex1{
+    height: 30px;
+    align-items: end;
+    display: flex;
+    gap: 30px;
+}
+.btn1{
+    color: white;
+    border: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    margin-left: 600px;
+}
+.btn2{
+     color: white;
+    border: none;
+    padding: 7px 20px;
+}
