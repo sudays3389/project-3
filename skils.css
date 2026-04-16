@@ -79,6 +79,7 @@ a{
     background-color: rgb(228, 228, 228);
 }
 .kalima4{
+    margin-left: 10px;
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
     font-weight: 600;
@@ -88,11 +89,14 @@ a{
      color: grey;
     margin-top: 10px;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+    margin-left: 10px;
+    }
 .btn4{
       color: white;
     background-color: black;
     padding: 10px 50px;
+    margin-left: 10px;
+    margin-top: 6px;
 }
 .knop3{
       width: 300px;
