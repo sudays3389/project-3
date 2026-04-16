@@ -42,7 +42,57 @@ a{
     margin-left: 600px;
 }
 .btn2{
-     color: white;
+     color: grey;
     border: none;
     padding: 7px 20px;
+    background: none;
+}
+.text1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 200px;
+}
+.btn3{
+    background: none;
+    padding: 10px 40px;
+    border: 1px solid orangered;
+    color: orangered;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.btn4{
+      background-color: orangered;
+    padding: 12px 40px;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.flex2{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 100px;
+}
+.flex3{
+    display: flex;
+    gap: 50px; 
+    justify-content: center;
+    margin-top: 60px;
+}
+.gird{
+    width: 10px;
+    height: 10px;
+    background-color: orangered;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.gavs{
+    font-size: 60px;
+    font-weight: 700;
+}
+.kalima{
+    margin-top: 30px;
 }
