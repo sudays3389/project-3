@@ -96,3 +96,35 @@ a{
 .kalima{
     margin-top: 30px;
 }
+.conteiner1{
+     width: 1605px;
+    height: 650px;
+    padding: 150px 150px;
+    display: flex;
+    gap: 60px;
+}
+.kalima2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.text4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px 0px;
+}
+.who{
+    margin-bottom: 10px;
+}
+.img4{
+    margin-left: 100px;
+}
+.btn5{
+    background-color: orangered;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    margin-top: 100px;
+}
