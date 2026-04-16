@@ -128,3 +128,92 @@ a{
     border-radius: 10px;
     margin-top: 100px;
 }
+.conteiner2{
+      width: 1605px;
+    height: 750px;
+    padding: 150px 150px;
+    gap: 60px;
+}
+.btn6{
+    background: none;
+    color: orangered;
+    border: 1px solid orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 25px;
+    border-radius: 5px;
+    margin-left: 1200px;
+}
+.knopka1{
+    display: flex;
+    gap: 80px;
+    width: 700px;
+    height: 214px;
+    box-shadow: 5px 5px 10px grey;
+}
+.kalima3{
+    width: 70px;
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.kalima4{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.narx{
+     color: orangered;
+}
+.text7{
+    color: grey;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.flex4{
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.kalima10{
+    width: 70px;
+    padding: 10px 20px;
+    background-color: rgb(136, 255, 0);
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.kalima5{
+    width: 105px;
+    padding: 10px 20px;
+    background-color: rgb(0, 38, 255);
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.kalima6{
+    width: 70px;
+    padding: 10px 20px;
+    background-color: rgb(208, 255, 0);
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.kalima7{
+    width: 70px;
+    padding: 10px 20px;
+    background-color: rgb(255, 0, 76);
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.kalima8{
+    width: 70px;
+    padding: 10px 20px;
+    background-color: rgb(234, 0, 255);
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
